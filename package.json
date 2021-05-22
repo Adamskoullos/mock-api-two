@@ -1,0 +1,23 @@
+{
+  "name": "mock-api-two",
+  "version": "1.0.0",
+  "description": "Build a test mock api and deploy to Heroku for development use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adamskoullos/mock-api-two.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adamskoullos/mock-api-two/issues"
+  },
+  "homepage": "https://github.com/Adamskoullos/mock-api-two#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}

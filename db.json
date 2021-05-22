@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "text": "The first task in the mock-api-two todo's array",
+      "complete": false
+    },
+    {
+      "id": 1,
+      "text": "The second task in the mock-api-two todo's array",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "text": "The third task in the mock-api-two todo's array",
+      "complete": false
+    }
+  ]
+}
